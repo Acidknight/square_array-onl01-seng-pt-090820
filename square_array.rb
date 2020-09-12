@@ -5,4 +5,5 @@ def square_array(array)
   end
   
   end
-my_numbers = 
+my_numbers = [1, 2]
+
